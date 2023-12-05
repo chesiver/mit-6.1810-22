@@ -1,0 +1,10 @@
+{
+    "C_Cpp.default.includePath": [
+        "${workspaceFolder}"
+    ],
+    "window.title": "${dirty}${activeEditorLong}",
+    "files.associations": {
+        "types.h": "c",
+        "user.h": "c"
+    }
+}
